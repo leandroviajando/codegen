@@ -1,0 +1,5 @@
+SEQUENCE_LENGTH = 128
+VOCAB_SIZE = 32000  # CodeLlama tokenizer vocab size
+BATCH_SIZE = 32
+NUM_EPOCHS = 10
+LEARNING_RATE = 3e-4
